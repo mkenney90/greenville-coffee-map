@@ -17,8 +17,8 @@ code {
 }
 
 .map-container {
-  width: 450px;
-  height: 450px;
+  width: 600px;
+  height: 600px;
   background-color: rgba(0,100,100,0.2);
   margin: 0 auto;
 }
